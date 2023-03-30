@@ -96,7 +96,11 @@ To run the project, follow these instructions:
   *  In your browser, go to `http://localhost:3000`.
 ### Running the client side
 
-  *  Run `rails s`
+  *  Run `npm start`
+
+### Below is the link to the pull request for the front-end part of the project
+
+  * [Front End](https://github.com/ndikumanaisaie/hello-react-front-end/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
