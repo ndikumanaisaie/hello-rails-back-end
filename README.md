@@ -18,18 +18,14 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Hallo World <a name="about-project"></a>
+# 📖 hello-rails-back-end <a name="about-project"></a>
 
->This application lets users create a category of things they want to spend money on. After creating the category, users can then create items and associated spending. To do all this a user must have an account and logged in. 
+>Backend api for connecting with the front end. 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.ruby-lang.org/en/">React</a></li>
-  </ul>
   <summary>Server</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">RoR</a></li>
@@ -69,12 +65,12 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone https://github.com/ndikumanaisaie/Hallo_World.git
+git clone https://github.com/ndikumanaisaie/hello-rails-back-end.git
 ```
 
   * Navigate to the location of the folder in your machine:
 
-  **`you@your-Pc-name:~$ cd Hallo_World`**
+  **`you@your-Pc-name:~$ cd hello-rails-back-end`**
 
 ### Install
 
@@ -100,7 +96,7 @@ To run the project, follow these instructions:
   *  In your browser, go to `http://localhost:3000`.
 ### Running the client side
 
-  *  Run `./bin/dev`
+  *  Run `rails s`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
