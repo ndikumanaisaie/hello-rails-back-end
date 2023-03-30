@@ -1,9 +1,9 @@
 module Api
   class GreetingsController < ApplicationController
     def index
-      @greetings = Greeting.all
+      @greetings = Greeting.all.sample
 
-      render json: @greetings
+      render json: @greetings, status: :ok
     end
   end
 end
